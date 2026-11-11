@@ -1,0 +1,23 @@
+{
+  "upstreamCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+  "skillsChecked": 283,
+  "categories": 18,
+  "quickValidate": {
+    "validator": "skill-creator/quick_validate.py",
+    "checked": 283,
+    "passed": 283,
+    "failures": []
+  },
+  "integrity": {
+    "yamlParsed": 283,
+    "originalByteEquality": 283,
+    "licenseEquality": 283,
+    "manifestCoverage": 283,
+    "generatedLinksChecked": true
+  },
+  "failures": [],
+  "limitations": [
+    "No live Paperclip instance import performed.",
+    "Role guidance preserved from upstream; no behavioral benchmark or external tool installation performed."
+  ]
+}
